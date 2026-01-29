@@ -1,5 +1,3 @@
-package threading;
-
 import java.beans.PropertyChangeSupport;
 
 public class Blackboard extends PropertyChangeSupport {
